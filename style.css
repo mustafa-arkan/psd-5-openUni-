@@ -422,10 +422,17 @@ width: 100%;
         
         
         height: 35px;
-        width:280px ;
+        width:200px ;
         margin-top: 13px;
        
         
+        }
+
+
+        .topbar form input{
+
+           width: 120px;
+            
         }
         /*end of topbar  */
         .navbar {
@@ -500,7 +507,7 @@ width: 100%;
     /* width: 203px; */
     width: calc(100% - 37px);
     
-    margin-left: 23px;
+    margin-left: 15px;
     margin-top: 30px;
 
     text-align: center;
@@ -536,8 +543,8 @@ width: 100%;
         /* width: calc(100% - 37px); */
         width: 100%;
     
-        font-size: large;
-        margin-left: 23px;
+        font-size: 11px;
+        margin-left: 15px;
         
         
         }
@@ -559,10 +566,11 @@ text-align: justify;
         
         
         .mid_con img{
-        width: 198px;
+        width: 180px;
         height: auto;
         
         margin-right: 9px;
+        margin-left: -11px;
         
         margin-bottom: 7px;
         outline: 4px solid rgba(226, 226, 226, 1);
@@ -613,7 +621,7 @@ text-align: justify;
 
 
             width: calc(100% - 37px);
-            
+            height: auto;
            
            
             
